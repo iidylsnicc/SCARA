@@ -1,0 +1,2 @@
+# SCARA
+The thesis project 
